@@ -1,2 +1,2 @@
-GT4500,10,10,0,0
-TORPEDO,ALL
+GT4500,0,0,0,0  # mindkét tároló üres
+TORPEDO,SINGLE  # próbál kilőni, de nem sikerül

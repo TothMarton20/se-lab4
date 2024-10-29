@@ -1,2 +1,2 @@
-SUCCESS
-FAIL
+SUCCESS  # <- GT4500 létrehozása sikeres
+SUCCESS  # <- Torpedó kilövése a primary store-ból

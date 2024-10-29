@@ -1,2 +1,2 @@
-SUCCESS
-SUCCESS
+SUCCESS  # <- GT4500 létrehozása sikeres
+SUCCESS  # <- Torpedó kilövése mindkét tárolóból

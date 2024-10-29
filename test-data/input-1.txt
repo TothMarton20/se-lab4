@@ -1,2 +1,3 @@
-GT4500,10,10,0,0
-TORPEDO,SINGLE
+# Egy hajó létrehozása, amelynek teli torpedótárolói soha nem hibáznak
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # első tüzelés, a primary store-ból
